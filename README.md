@@ -1,17 +1,17 @@
 # Pima Indians Diabetes Analysis & Prediction
 This project explores a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. 
 
-##🎯 Project Objective
+## 🎯 Project Objective
 
 The goal of is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
 This project focuses on analyzing medical data to identify the primary risk factors contributing to diabetes in a specific population. As an aspiring Data Analyst with a background in System Analysis, I have applied a structured approach to data cleaning, visualization, and statistical exploration to derive meaningful health insights.
 
-##Dataset Description
+## Dataset Description
 
-###Dataset
+### Dataset
 [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/jamaltariqcheema/pima-indians-diabetes-dataset)
 
-###Viriables description
+### Viriables description
 The dataset consists of several medical predictor variables and one target variable (Outcome).
 Original column names were refactored into a more concise and descriptive format to facilitate easier programmatic access and reduce syntax errors during the modeling phase.
 - Pregnancies > preg: Number of times pregnant.
@@ -25,11 +25,11 @@ Original column names were refactored into a more concise and descriptive format
 - Outcome > target: Target variable (0 or 1) Where "1" is diabetic person and "0" - non diabetic.
 
 
-###Tech Stack
+### Tech Stack
 Language: Python.
 Libraries: Pandas (data manipulation), Seaborn & Matplotlib (data visualization), NumPy.
 
-###Key Analysis Phases
+### Key Analysis Phases
 1. Data Quality Audit
    Identified and handled "logical" missing values (e.g., zero values in Blood Pressure or BMI that are physiologically impossible).
 2. Exploratory Data Analysis (EDA)
@@ -43,7 +43,7 @@ Libraries: Pandas (data manipulation), Seaborn & Matplotlib (data visualization)
 5. Hypothesis Testing
    Used p-values to ensure that the identified patterns were not merely results of random chance (avoiding the "Confirmation Bias" discussed in my professional network).
 
-##How to Run
+## How to Run
 
 Bash
 ### Clone the repository
