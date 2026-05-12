@@ -2,6 +2,7 @@
 This project explores a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. 
 
 🎯 Project Objective
+
 The goal of is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
 This project focuses on analyzing medical data to identify the primary risk factors contributing to diabetes in a specific population. As an aspiring Data Analyst with a background in System Analysis, I have applied a structured approach to data cleaning, visualization, and statistical exploration to derive meaningful health insights.
 
