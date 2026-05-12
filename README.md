@@ -45,7 +45,6 @@ Libraries: Pandas (data manipulation), Seaborn & Matplotlib (data visualization)
 
 ## How to Run
 
-Bash
 ### Clone the repository
 git clone https://github.com/AnastasiiaCherevan/Pima-Indian-Diabetes-Analysis.git
 
