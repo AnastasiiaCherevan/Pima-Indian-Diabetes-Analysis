@@ -7,15 +7,17 @@ The goal of is to diagnostically predict whether or not a patient has diabetes, 
 This project focuses on analyzing medical data to identify the primary risk factors contributing to diabetes in a specific population. As an aspiring Data Analyst with a background in System Analysis, I have applied a structured approach to data cleaning, visualization, and statistical exploration to derive meaningful health insights.
 
 Dataset Description
+
+Dataset: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/jamaltariqcheema/pima-indians-diabetes-dataset)
 The dataset consists of several medical predictor variables and one target variable (Outcome).
-Pregnancies: Number of times pregnant.
-Glucose: Plasma glucose concentration.
-BloodPressure: Diastolic blood pressure (mm Hg).
-SkinThickness: Triceps skin fold thickness (mm).
-Insulin: 2-hour serum insulin (mu U/ml).
-BMI: Body mass index (weight in kg/(height in m^2)).
-DiabetesPedigreeFunction: A function that scores the likelihood of diabetes based on family history.
-Age: Age in years.
+- Pregnancies: Number of times pregnant.
+- Glucose: Plasma glucose concentration.
+- BloodPressure: Diastolic blood pressure (mm Hg).
+- SkinThickness: Triceps skin fold thickness (mm).
+- Insulin: 2-hour serum insulin (mu U/ml).
+- BMI: Body mass index (kg/m²).
+- DiabetesPedigreeFunction: A function that scores the likelihood of diabetes based on family history.
+- Age: Age in years.
 
 Tech Stack
 Language: Python.
