@@ -43,6 +43,11 @@ Libraries: Pandas (data manipulation), Seaborn & Matplotlib (data visualization)
 5. Hypothesis Testing
    Used p-values to ensure that the identified patterns were not merely results of random chance (avoiding the "Confirmation Bias" discussed in my professional network).
 
+## Conclusion & Key Insights
+This study identifies critical "tipping points" where diabetes risk shifts from manageable to high. While the baseline risk is 36%, the probability escalates sharply once Insulin exceeds 137 $\mu U/ml$ (59% risk) or BMI crosses 47 (79% risk). The most vital discovery is the Synergy Effect: the combination of BMI > 30 and Glucose > 125 creates a "perfect storm," where risk compounds exponentially rather than linearly.
+
+Additionally, the analysis revealed a Survival Bias in the 60+ age group; lower prevalence in later life is likely due to high-risk individuals being filtered out earlier, rather than a biological advantage. Practically, this research advocates for a diagnostic protocol that "sounds the alarm" at these specific metabolic thresholds, prioritizing early intervention when Insulin-Glucose synergy is detected.
+
 ## How to Run
 
 ### Clone the repository
